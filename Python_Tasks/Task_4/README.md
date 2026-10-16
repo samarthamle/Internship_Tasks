@@ -61,3 +61,4 @@ Replace `problem1.py` with the required filename.
 ## Author
 
 Python Programming Intern
+Samarth Amale
