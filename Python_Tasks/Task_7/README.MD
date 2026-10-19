@@ -30,8 +30,8 @@ This task contains 20 Python programming problems solved using HackerRank. The o
 | 9   | CamelCase                                            |
 | 10  | *(Add the correct problem name from your task list)* |
 | 11  | Two Strings                                          |
-| 12  | Sherlock and the Valid String                        |
-| 13  | *(Add the correct problem name from your task list)* |
+| 12  | Making Anagrams                      |
+| 13  | |Sherlock and the Valid String
 | 14  | Anagram                                              |
 | 15  | Game of Thrones - I                                  |
 | 16  | Caesar Cipher                                        |
